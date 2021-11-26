@@ -57,13 +57,4 @@ class Point
   ORIGIN = Point.new(0, 0)
 end
 
-
-a = Point.new(1,1)
-b = a + Point::ORIGIN
-puts a == b  # True
-b = Point.new(1, 2)
-puts a < b  # True, From Comparable
-c = a + b   # (1,1) + (1,2)
-puts c.to_s
-puts c.to_a  # From Enumerable
-puts c * 2   # Implicit call to to_s
+# Tests at point3d.rb
