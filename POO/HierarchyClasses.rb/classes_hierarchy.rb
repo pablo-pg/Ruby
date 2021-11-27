@@ -3,9 +3,9 @@
 # Author: Pablo Pérez González
 # email: pablo.perez.gonzalez.23@ull.edu.es
 #
-#                         NilClass
-#                             |
-#                        BasicObject
+#                            nil                         NilClass
+#                             |                             |
+#                        BasicObject                       nil
 #                             |
 #                          Object
 #                          | | | |
