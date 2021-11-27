@@ -56,7 +56,7 @@ puts "\n\n\n"
 show_super(:x.class)
 puts "\n\n\n"
 
-show_super(false.class)
+show_super(false.class)  # false.class != true.class
 puts "\n\n\n"
 
 show_super("".class)
