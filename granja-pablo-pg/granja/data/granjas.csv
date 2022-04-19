@@ -1,0 +1,5 @@
+id,name,desc,tipo_ave,destino,condiciones,precio,precio_venta
+2,Gallinas felices,granja de gallinas,1,0,CAMPO ABIERTO,3.10,5.5
+3,Granja de Pepe,granja de gallinas ponedoras,1,0,CAMPO ABIERTO,3.10,15.95
+4,Gallinas tristes,granja de gallinas,1,1,CAMPO ABIERTO,5.5,9.0
+5,Gallinas muy tristes,granja de gallinas,1,1,JAULAS,3.10,5.5

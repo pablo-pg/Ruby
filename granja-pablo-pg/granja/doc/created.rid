@@ -1,0 +1,22 @@
+Wed, 19 Jan 2022 00:44:48 +0000
+Guardfile	Mon, 13 Dec 2021 21:14:08 +0000
+Rakefile	Mon, 13 Dec 2021 21:03:39 +0000
+data/aves.csv	Fri, 24 Dec 2021 18:07:28 +0000
+data/granjas.csv	Fri, 24 Dec 2021 19:13:03 +0000
+LICENSE.txt	Mon, 13 Dec 2021 21:03:39 +0000
+spec/spec_helper.rb	Mon, 13 Dec 2021 21:03:39 +0000
+spec/granja_spec.rb	Wed, 19 Jan 2022 00:42:37 +0000
+lib/granja.rb	Tue, 18 Jan 2022 23:40:30 +0000
+lib/granja/version.rb	Sat, 25 Dec 2021 20:12:30 +0000
+lib/granja/ave.rb	Fri, 24 Dec 2021 17:22:20 +0000
+lib/granja/test.rb	Sat, 15 Jan 2022 20:04:15 +0000
+lib/granja/animal.rb	Mon, 13 Dec 2021 21:34:06 +0000
+lib/granja/dsl_granja.rb	Wed, 19 Jan 2022 00:30:45 +0000
+lib/granja/funcionalidades.rb	Wed, 12 Jan 2022 20:41:03 +0000
+lib/granja/avicola.rb	Sat, 25 Dec 2021 19:37:49 +0000
+lib/granja/dsl_funcionalidades.rb	Wed, 19 Jan 2022 00:03:09 +0000
+lib/granja/datos.rb	Mon, 13 Dec 2021 21:03:39 +0000
+bin/setup	Mon, 13 Dec 2021 21:03:39 +0000
+bin/console	Mon, 13 Dec 2021 21:03:39 +0000
+Gemfile	Mon, 13 Dec 2021 21:03:39 +0000
+Gemfile.lock	Wed, 12 Jan 2022 20:28:53 +0000
